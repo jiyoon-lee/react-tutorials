@@ -1,5 +1,3 @@
-출처: 실무에서 알아야 할 기술은 따로 있다! 리액트를 다루는 기술(개정판) / 10장. 일정 관리 웹 애플리케이션 만들기
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
